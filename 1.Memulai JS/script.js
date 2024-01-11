@@ -1,0 +1,1 @@
+console.log("ini JS dari luar");
